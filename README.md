@@ -1,33 +1,37 @@
 # Nlw-Heat
 Projeto desenvolvido no evento Nlw-Heat
 ## Rodar Projeto
-```
--Clonar repositório
 
+
+```bash
+#Clonar repositório
 $ git clone https://github.com/OtavioEscalnte/Nlw-Heat.git
 $ cd Nlw-Heat
-$ cd node_heat
 
--instalar dependências
+```
+## Rodar API
+```bash
+$ cd node_heat
+#instalar dependências
 $ yarn install
--Rodar api
+#Rodar api
 $ yarn dev
 
 ```
 ## Rodar Projeto Web
 
-```
+```bash
 $ cd web
--instalar dependências
+#instalar dependências
 $ cd yarn install 
--rodar aplicação 
+#rodar aplicação 
 $ yarn dev
 ```
 ## Rodar Projeto Mobile
-```
+```bash
 $ cd nlwheatapp
--instalar dependências
+#instalar dependências
 $ cd yarn install
--rodar aplicativo
+#rodar aplicativo
 $ expo start
 ```
