@@ -3,9 +3,11 @@ Projeto desenvolvido no evento Nlw-Heat
 ## Rodar Projeto
 ```
 -Clonar repositório
+
 $ git clone https://github.com/OtavioEscalnte/Nlw-Heat.git
 $ cd Nlw-Heat
 $ cd node_heat
+
 -instalar dependências
 $ yarn install
 -Rodar api
